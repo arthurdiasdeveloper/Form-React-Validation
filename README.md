@@ -1,3 +1,6 @@
+#About
+Este é um formulário criado em React usando a biblioteca Formik. Possui uma forma básica e estilo dos componentes usando Material-UI. Também validei o formulário usando a biblioteca de validação Yup.
+
 ![Alt text](screenshots/01.png?raw=true "Title")
 ![Alt text](screenshots/02.png?raw=true "Title1")
 ![Alt text](screenshots/03.png?raw=true "Title2")
